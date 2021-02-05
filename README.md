@@ -8,5 +8,8 @@ Currently very incomplete
 - need either a good memory or a physical chess board to track moves
 
 Currently capable of
-- playing a full game of chess on Lichess.org
+- playing full games of chess on Lichess.org
 - resigning games
+
+Uses Niklas Fiekas' chess library
+- https://pypi.org/project/chess/
